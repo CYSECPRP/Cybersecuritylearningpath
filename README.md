@@ -1,6 +1,6 @@
 # 🔐 My Cybersecurity Learning Journey
 
-**Student**: [Your Name]  
+**Student**: Prajwal R Pattanshetti  
 **University**: Dayananda Sagar University  
 **Duration**: September 2025 - April 2026  
 **Goal**: SOC Analyst + Cloud Security Professional  
