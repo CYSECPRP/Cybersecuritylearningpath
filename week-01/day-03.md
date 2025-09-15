@@ -28,6 +28,43 @@
 - **Level 6**: System-wide search with user/group ownership
 - **Level 7**: Text pattern matching with `grep`
 - **Level 8**: Data analysis with `sort` and `uniq`
+  
+---
+
+## **🎯 SUCCESS CHECKLIST FOR DAY 3:**
+
+### **Technical Achievements:**
+- [ ] Ubuntu Server VM installed and configured
+- [ ] SSH access enabled and tested
+- [ ] User management practice completed
+- [ ] File permissions mastery demonstrated
+- [ ] OverTheWire Bandit levels 4-8 completed
+- [ ] Advanced Linux commands learned (find, grep, sort, uniq)
+
+### **Lab Environment:**
+- [ ] 2 VMs running simultaneously 
+- [ ] Different OS environments for different purposes
+- [ ] SSH connectivity between systems
+- [ ] Professional multi-VM setup
+
+### **Skills Development:**
+- [ ] System administration basics
+- [ ] Text processing and analysis
+- [ ] Complex file searching
+- [ ] Process management understanding
+- [ ] Error handling and redirection
+
+---
+
+## **🚨 TROUBLESHOOTING DAY 3 ISSUES:**
+
+### **VM Performance with Multiple VMs:**
+```bash
+# If system is slow:
+1. Close unnecessary applications on host
+2. Reduce one VM to 1.5GB RAM if needed
+3. Don't run both VMs simultaneously if host has <8GB RAM
+4. Take snapshots and shut down VMs when not in use
 
 ### Advanced Commands Mastered
 ```bash
