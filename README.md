@@ -75,25 +75,13 @@
 **Next Week's Goals**:
 - [ ] Complete networking fundamentals
 - [ ] Start Python security scripting
-- [ ] Set up additional VMs
-
-## 📈 Weekly Reflections
-
-### Week 1 (Sep 14-20, 2025)
-**What I Learned**:
-- [Update daily]
-
-**Challenges Faced**:
-- [Document problems and solutions]
-
-**Next Week's Focus**:
-- [Plan ahead]
+- [ ] Set up additional VM
 
 ## 📞 Connect With Me
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
-- **GitHub**: [This Repository]
+- **LinkedIn**: [www.linkedin.com/in/prajwal-r-p2005]
+- **Email**: [prajwalrajupattanshetti@gmail.com]
+- **GitHub**: [https://github.com/cysecprp]
 
 ## 📝 Daily Learning Log
 
