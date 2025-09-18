@@ -9,8 +9,8 @@
 
 | Week | Focus Area | Status | Completion % |
 |------|------------|--------|--------------|
-| Week 1 (Sep 14-20) | Linux Fundamentals & Setup | 🟡 In Progress | 0% |
-| Week 2 (Sep 21-27) | Networking Basics | ⭕ Not Started | 0% |
+| Week 1 (Sep 14-20) | Linux Fundamentals & Setup | ✅ Completed | 100% |
+| Week 2 (Sep 21-27) | Networking Basics | 🟡 Not Started | 0% |
 | Week 3 (Sep 28-Oct 4) | Python for Security | ⭕ Not Started | 0% |
 | Week 4 (Oct 5-11) | Web Application Security | ⭕ Not Started | 0% |
 
@@ -45,10 +45,10 @@
 ### Platforms
 - [ ] TryHackMe Rank: [Current Rank]
 - [ ] HackTheBox Rank: [Current Rank]
-- [ ] OverTheWire Bandit: Level [X]/34
+- [ ] OverTheWire Bandit: Level 22/34
 
 ### Projects Completed
-1. [Project Name] - [Brief Description] - [Week Completed]
+1. basic_info_gathering - [Every security assessment starts with information gathering] - [Week 1]
 2. 
 3. 
 
