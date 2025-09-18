@@ -10,7 +10,7 @@
 | Week | Focus Area | Status | Completion % |
 |------|------------|--------|--------------|
 | Week 1 (Sep 14-20) | Linux Fundamentals & Setup | ✅ Completed | 100% |
-| Week 2 (Sep 21-27) | Networking Basics | 🟡 Not Started | 0% |
+| Week 2 (Sep 21-27) | Networking Basics | 🟡 In progress | 30% |
 | Week 3 (Sep 28-Oct 4) | Python for Security | ⭕ Not Started | 0% |
 | Week 4 (Oct 5-11) | Web Application Security | ⭕ Not Started | 0% |
 
